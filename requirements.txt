@@ -1,0 +1,11 @@
+numpy
+git+https://github.com/cmikida2/grudge.git@cory_sbp
+git+https://github.com/inducer/pymbolic.git
+git+https://github.com/inducer/islpy.git
+git+https://github.com/inducer/pyopencl.git
+git+https://github.com/inducer/loopy.git
+git+https://github.com/inducer/dagrt.git
+git+https://github.com/inducer/leap.git
+git+https://github.com/inducer/meshpy.git
+git+https://github.com/inducer/modepy.git
+git+https://github.com/inducer/meshmode.git
